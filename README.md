@@ -1,2 +1,1 @@
-# counter-component.github.io
-Web Component Counter Challenge
+# https://github.com/event-count/event-count.github.io
